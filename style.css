@@ -1,0 +1,12 @@
+body {
+    background: gray;
+}
+p {
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
+
+title {
+    background-color: blue;
+}
